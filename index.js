@@ -274,7 +274,7 @@ bot.action('ap',(ctx) =>{
     { 
         reply_markup:{
             inline_keyboard:[
-                [{text: "Connect Whatsapp",url:"https://wa.me/918606683287"}],
+                [{text: "Connect Whatsapp",url:"https://wa.me/918606683287?text=Hii+got+bug!!"}],
                 [{text: "Connect Telegram",url:"https://t.me/karthikSunilK"}],
                
             ]
