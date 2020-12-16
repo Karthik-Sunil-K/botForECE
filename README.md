@@ -1,2 +1,2 @@
-# Telegram Bot for ECE Materials
+# Telegram Bot for ECE Students
 wanna try this https://t.me/ectkmbot
